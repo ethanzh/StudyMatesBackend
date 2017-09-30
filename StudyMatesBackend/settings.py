@@ -25,7 +25,7 @@ SECRET_KEY = 'ip31l2v-o!(%&!ejwt@z4p(6-lr*ocziqr=gpjup-m8-owr+)7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['54.219.177.96']
 
 
 # Application definition
